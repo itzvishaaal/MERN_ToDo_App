@@ -76,4 +76,4 @@ We can start MongoDB server by running:
 
 we can start our backend development server by running:
 
-#### `nodemon server
+#### `nodemon server`
