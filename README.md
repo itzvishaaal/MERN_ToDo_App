@@ -11,32 +11,32 @@
 
 Bootstrap Library
 
-### `npm install bootstrap`
+#### `npm install bootstrap`
 
-### React-router-dom
+#### React-router-dom
 
-### `npm install react-router-dom`
+#### `npm install react-router-dom`
 
 ### axios HTTP client for the browser and node.js
 
-### `npm install axios`
+#### `npm install axios`
 
 
 ### Available Scripts
 
 In the project directory, you can run:
 
-### `npm start`
+#### `npm start`
 
 Runs the app in the development mode. Open `http://localhost:3000` to view it in the browser.
 
 The page will reload if you make edits. You will also see any lint errors in the console.
 
-### `npm test`
+#### `npm test`
 
 Launches the test runner in the interactive watch mode. See the section about running tests for more information.
 
-### `npm run build`
+#### `npm run build`
 
 Builds the app for production to the build folder. It correctly bundles React in production mode and optimizes the build for the best performance.
 
@@ -44,7 +44,7 @@ The build is minified and the filenames include the hashes. Your app is ready to
 
 See the section about deployment for more information.
 
-### `npm run eject`
+#### `npm run eject`
 
 ***Note: this is a one-way operation. Once you `eject`, you can’t go back!***
 
@@ -60,21 +60,20 @@ You don’t have to ever use eject. The curated feature set is suitable for smal
 
 ### cors
 
-### `npm install express body-parser cors`
+#### `npm install express body-parser cors`
 
-### `mongodb connector called mongoose`
+#### `mongodb connector called mongoose`
 
-### `npm install express body-parser cors mongoose`
+#### `npm install express body-parser cors mongoose`
 
 nodemon to detect the changes on server in real-time.
 
-### `npm install -g nodemon`
+#### `npm install -g nodemon`
 
 We can start MongoDB server by running:
 
-### `systemctl start mongod`
+#### `systemctl start mongod`
 
 we can start our backend development server by running:
 
-### `nodemon server`
-
+#### `nodemon server
